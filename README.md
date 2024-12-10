@@ -1,1 +1,1 @@
-# this is HTML and CSS code.
+# This is HTML and CSS code.
